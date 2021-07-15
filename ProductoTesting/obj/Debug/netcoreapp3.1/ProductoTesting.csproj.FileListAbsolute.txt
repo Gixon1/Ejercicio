@@ -1,0 +1,13 @@
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.exe
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.deps.json
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.runtimeconfig.json
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.runtimeconfig.dev.json
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.dll
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\bin\Debug\netcoreapp3.1\ProductoTesting.pdb
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.csproj.AssemblyReference.cache
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.AssemblyInfoInputs.cache
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.AssemblyInfo.cs
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.csproj.CoreCompileInputs.cache
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.dll
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.pdb
+C:\Users\Gixao\source\repos\ProductoTesting\ProductoTesting\obj\Debug\netcoreapp3.1\ProductoTesting.genruntimeconfig.cache
